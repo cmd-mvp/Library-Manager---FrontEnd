@@ -9,11 +9,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </React.StrictMode>,
 );
 
-/*ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <Header/>
-    <Banner/>
-    <p>DOIS CARAS NUMA MOTO</p>
-    <Footer/>
-  </React.StrictMode>,
-);*/
